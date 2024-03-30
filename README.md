@@ -1,7 +1,12 @@
-# Exercise04a-StateMachines
+# Project04-Platformer
+
+# Project Name
+Exercise 4a
+
+Description
 
 ## Implementation
-Which features you included.
+Added character animation walk/jump
 
 ## References
 
@@ -10,6 +15,7 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
+Enemies, AI
 
 ## Created by
-Nathan Mishler
+Griffin Burge
